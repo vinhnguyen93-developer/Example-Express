@@ -2,7 +2,9 @@
   "users": [
     {
       "name": "Luan",
-      "id": "yln7VKKD"
+      "id": "yln7VKKD",
+      "email": "dinhvinhbb93@gmail.com",
+      "password": "123456"
     },
     {
       "name": "Thong",
@@ -26,11 +28,6 @@
       "name": "Châm",
       "phone": "56789",
       "id": "gnsXs0Ew"
-    },
-    {
-      "name": "Thong",
-      "phone": "567567",
-      "id": "7je4tAm4"
     }
   ]
 }
