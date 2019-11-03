@@ -648,5 +648,13 @@
       "image": "https://loremflickr.com/320/240",
       "description": "vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum"
     }
+  ],
+  "sessions": [
+    {
+      "id": "tqaadn8o",
+      "cart": {
+        "1b913671-47e5-4569-897f-fff14311c194": 2
+      }
+    }
   ]
 }
