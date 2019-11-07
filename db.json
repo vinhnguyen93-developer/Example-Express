@@ -655,6 +655,32 @@
       "cart": {
         "1b913671-47e5-4569-897f-fff14311c194": 2
       }
+    },
+    {
+      "id": "mbdCiVK4"
+    },
+    {
+      "id": "uNi8mLrl"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "6ebfV31g",
+      "amount": 300000,
+      "accountId": "456789",
+      "userId": "yln7VKKD"
+    },
+    {
+      "id": "qW4MjVQC",
+      "amount": 500000,
+      "accountId": "3456",
+      "userId": "yln7VKKD"
+    },
+    {
+      "id": "DstkPaql",
+      "amount": 1000000,
+      "accountId": "x1234",
+      "userId": "yln7VKKD"
     }
   ]
 }
